@@ -1,0 +1,7 @@
+Extract,Email,time,start.date,end.date,dimensions,metrics,filters,sort,segments,max.results,start.index,table.id,GA.View,,
+yes,John,month,01/01/2019,31/10/2020,ga:medium,"ga:sessions,ga:entrances",,,,,,ga:108117243,Vuejs&Material demo,,
+no,Peter,7,01/06/2015,31/08/2015,ga:medium,"ga:sessions,ga:entrances",,,gaid::-1,,,ga:462232,Stream:20,All Sessions,vacuum-cleaners
+no,Sarah,1,01/06/2015,31/08/2015,ga:medium,"ga:sessions,ga:entrances",ga:pagePath==/reviews/vacuum-cleaners,,gaid::-1,10000,,ga:105578769,Post Office,All Sessions,boilers
+no,Sarah,2,01/06/2015,31/08/2015,ga:medium,"ga:sessions,ga:entrances",ga:pagePath==/home-and-garden/heating-water-and-electricity/reviews/boilers,,gaid::-1,,,ga:53487092,Betvictor EN - Default,All Sessions,dehumidifiers
+no,Sarah,no,01/06/2015,31/08/2015,"ga:landingPagePath,ga:secondPagePath,ga:exitPagePath,ga:pageDepth,ga:medium,ga:source","ga:sessions,ga:entrances",ga:pagePath==/home-and-garden/heating-water-and-electricity/reviews/dehumidifiers,,gaid::-1,,,ga:3761004,Good Energy Group website,All Sessions,built-in-ovens
+no,Sarah,7,01/06/2015,31/08/2015,ga:medium,"ga:sessions,ga:entrances",ga:pagePath==/home-and-garden/home-appliances/reviews/built-in-ovens,,gaid::-1,,,ga:3761004,Good Energy Group website,,
